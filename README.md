@@ -1,7 +1,9 @@
 Software Architecture Enthusiast | Clean Code Advocate
 ========================================================================================================================================
 
-👋 Hi! I'm a dedicated .NET developer, diving deep into backend solutions for the past three years. Currently, I'm pouring my passion into nesprex, an exciting side hustle project.
+👋 Hi! I'm a dedicated .NET developer, diving deep into backend solutions for the past three years.
+
+📈 Fueling innovation at [Nesprex](https://github.com/eduardscript/nesprex), where my passion for coding ignites creative solutions
 
 🌍 Calling Nazare, Portugal home, I'm inspired daily by its stunning waves and vibrant life.
 
