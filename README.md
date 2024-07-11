@@ -1,32 +1,14 @@
-Software Architecture Enthusiast | Clean Code Advocate
-========================================================================================================================================
+# Ctrl + Alt + Defeat: Where Bugs Come to Die
 
-👋 Hi! I'm a dedicated .NET developer, diving deep into backend solutions for the past three years.
+I'm a passionate .NET Developer from Portugal, focusing on .NET and HTMX. Since 2019, I've been dedicated to building robust and scalable applications.
 
-📈 Fueling innovation at [Nesprex](https://github.com/eduardscript/nesprex), where my passion for coding ignites creative solutions
+Currently, I'm on an exciting journey to launch my own business. Check it out: [scalizup](https://github.com/scalizup).
 
-🌍 Calling Nazare, Portugal home, I'm inspired daily by its stunning waves and vibrant life.
-
-🌱 Exploring Flutter is my latest adventure, aiming to blend my backend skills with striking frontend experiences.
-
-💡 I'm all about scalable, maintainable software architecture. Every day is a chance to refine and apply my knowledge in building something great.
-
-🎓 At 22, my journey in tech is just beginning. Eager to learn, grow, and stay ahead of the curve.
-
-📫 Got ideas or need a coding buddy? Drop me a line at eduardscript@protonmail.com. Let's chat, share, and innovate together!
-
-Together, we can code a cleaner, more efficient future. Let's make waves in the tech world! ❤️
-
-<a href="https://www.github.com/eduardscript" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/eduardscript?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+### 🐍 Spare time history
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hashproton/hashproton/output/snake.svg" alt="Snake animation" />
 </p>
+
+When I'm not coding, you can find me doing absolutely nothing productive, unless you count watching my code run flawlessly as productive. I also enjoy long walks... to the fridge.
+
+---
