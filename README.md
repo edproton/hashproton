@@ -10,5 +10,3 @@ Currently, I'm on an exciting journey to launch my own business. Check it out: [
 </p>
 
 When I'm not coding, you can find me doing absolutely nothing productive, unless you count watching my code run flawlessly as productive. I also enjoy long walks... to the fridge.
-
----
