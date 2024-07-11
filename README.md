@@ -2,7 +2,7 @@
 
 I'm a passionate .NET Developer from Portugal, focusing on .NET and HTMX. Since 2019, I've been dedicated to building robust and scalable applications.
 
-Currently, I'm on an exciting journey to launch my own business. Check it out: [scalizup](https://github.com/scalizup).
+Currently, I'm chasing unicorns with my startup [scalizup](https://github.com/scalizup). Wish me luck, mate!
 
 ### 🐍 Spare time history
 <p align="center">
