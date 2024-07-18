@@ -1,6 +1,6 @@
 # Ctrl + Alt + Defeat: Where Bugs Come to Die
 
-I'm a passionate .NET Developer from Portugal, focusing on .NET and HTMX. Since 2019, I've been dedicated to building robust and scalable applications.
+I'm a passionate .NET Developer from Portugal. Since 2019, I've been dedicated to building robust and scalable applications.
 
 Currently, I'm chasing unicorns with my startup [scalizup](https://github.com/scalizup). Wish me luck, mate!
 
